@@ -40,13 +40,13 @@ If you are new to Git, [try learning the basics](https://try.github.io/).
 
 ## Repository Branching
 
-* The `master` branch contains the code for the project's starting point.
-* The project is basically empty in the `master` branch.
+* The `main` branch contains the code for the project's starting point.
+* The project is basically empty in the `main` branch.
 
-* If you want to code along with the course, then create a branch for your work off the `master` branch.
+* If you want to code along with the course, then create a branch for your work off the `main` branch.
 To create your own branch named `project/develop`, run:
 
-    * > git checkout master
+    * > git checkout main
     * > git branch project/develop
     * > git checkout project/develop
 
